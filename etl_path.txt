@@ -1,0 +1,2 @@
+- through the development of the learning path we see that some decisions of what to learn were accurate, the book on ETL talk about version control, oop, sql
+- we are using the book with the title building etl pipelines with python from packt publishing (2023)

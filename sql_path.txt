@@ -1,0 +1,3 @@
+- postrgreSQL is the technology of choice because is free, open-source, offers standard and many modern features for object relational database system
+- the bibliography for learn the concepts and the use of this tech gonna be the documentation file available in the official website of the project
+- (2025-05-03) i obtained the pdf book for PostgreSQL 16 Administration CookBook

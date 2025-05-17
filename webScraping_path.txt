@@ -1,0 +1,2 @@
+- maybe interesting things can be learn from more in depth book theory of web scraping
+- (2025-05-03) i'm stating to read the web scraping book of OReilly publishing (2024), chapters 1 to 3, maybe i can see some benefit in this book

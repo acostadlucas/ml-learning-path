@@ -1,0 +1,1 @@
+-(some day in april 2025) start to reading the book called 'Learning Git' from OReilly publishing in the firs release (2023). The development pass through chapter 1 what is git, chapter 2 local repositories and chapter 3 making a commit.

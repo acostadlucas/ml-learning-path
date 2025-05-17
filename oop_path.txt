@@ -1,0 +1,5 @@
+- for learn about python object oriented programming we gonna use 3 books:
+    1.python 3 object oriented programming - packt publishing (2018)
+    2.object oriented python, master oop by building games and guis - no starch press (2022)
+    3.dive into design patterns - refactoring.guru (2019)
+- is probably that we only focus in the first book
