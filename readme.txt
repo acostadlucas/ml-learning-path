@@ -13,3 +13,4 @@ ps: maybe learn in more depth web scraping
     - GenAI Building Blocks
     - AI development with code assistants
     - Modern web apps in pure Python
+
