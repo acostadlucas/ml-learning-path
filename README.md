@@ -1,3 +1,11 @@
+> ⚠️ **Project Deprecated (2025-07-06)**  
+> This repository was originally intended to guide a structured learning path for designing machine learning systems. However, I’ve realized that focusing too much on covering the entire ML lifecycle before doing real-world experimentation was slowing down my progress.  
+> 
+> Moving forward, I’ll shift toward building actual projects—some public, some private—where I can apply my knowledge and track my learning path in a more practical and iterative way.  
+> 
+> This repo will remain public for reference, but it is no longer actively maintained.
+
+
 # ml-learning-path
 Personal roadmap to learn and experiment with designing machine learning systems.
 
